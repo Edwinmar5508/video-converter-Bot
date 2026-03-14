@@ -9,3 +9,4 @@ requests
 heroku3
 ffmpeg-python
 tgcrypto
+python-decouple
