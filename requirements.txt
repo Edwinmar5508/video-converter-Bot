@@ -4,9 +4,10 @@ pymongo
 motor
 dnspython
 telegraph
-Pillow>=5.3.0
+Pillow
 requests
 heroku3
 ffmpeg-python
 tgcrypto
 python-decouple
+ethon
